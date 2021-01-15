@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-v5-sample",
+  "version": "1.0.0",
+  "description": "bootstrap-v5 sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andmorefine/bootstrap-v5-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andmorefine/bootstrap-v5-sample/issues"
+  },
+  "homepage": "https://andmorefine.github.io/bootstrap-v5-sample/",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "bootstrap-icons": "^1.3.0"
+  }
+}
